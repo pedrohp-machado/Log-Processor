@@ -50,6 +50,6 @@ class SafeQueue {
             cv.notify_all(); // notify waiting threads;
         }
 
-}
+};
 
 #endif
