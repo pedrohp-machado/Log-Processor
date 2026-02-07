@@ -1,11 +1,11 @@
 import csv
 from datetime import datetime, timedelta
 import random
-from faker import Faker
+# from faker import Faker
 
-fake = Faker()
+# fake = Faker()
 NUM_LINES = 1_000_000
-FILE = "logs.csv"
+FILE = "data/transactions.csv"
 
 cities = [ "New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Philadelphia", "San Antonio", "San Diego", "Dallas", "San Jose"]
 
@@ -17,7 +17,7 @@ def generate_data():
 
         writer.writerow(["id_transaction", "user_id", "value", "city", "timestamp"]) # Write header
 
-        start_date = (2025, 1, 1)
+        start_date = datetime(2025, 1, 1)
 
         for i in range(NUM_LINES):
 
