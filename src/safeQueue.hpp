@@ -34,7 +34,7 @@ class SafeQueue {
             unique_lock<mutex> lock(mtx); // unique_lock is similar to X-Lock or Write lock
 
             // unlock mutex and wait until notified or finished 
-            cv.wait(lock, [this], { return !q.empty() || finished; });
+            cv.wait(lock, [this] { return !q.empty() || finished; });
 
             if(q.empty() && finished) return false; // indicate no more data 
 
