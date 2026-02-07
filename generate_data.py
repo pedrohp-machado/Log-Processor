@@ -1,9 +1,9 @@
 import csv
 from datetime import datetime, timedelta
 import random
-from faker import Faker
+# from faker import Faker
 
-fake = Faker()
+# fake = Faker()
 NUM_LINES = 1_000_000
 FILE = "logs.csv"
 
