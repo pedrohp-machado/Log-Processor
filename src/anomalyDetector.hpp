@@ -5,6 +5,7 @@
 #include <string>
 #include <mutex>
 #include <iostream>
+#include <fstream>
 #include <cmath> // for abs(), sin, cos, sqrt(), atan2()
 #include <iomanip> // for gettime()
 #include <sstream>
@@ -34,6 +35,8 @@ class AnomalyDetector {
         unordered_map<int, userState> userHistory; // map to hold all user states
         mutex mtx; // mutex for thread safety
         unordered_map<string, coordinates> cityCoordinates; // map to hold city coordinates for distance calculation
+        
+        ofstream alertFile; // file to write anomalies
 
         // helper to convert degrees to radians
         double toRad(double deg){
@@ -81,6 +84,19 @@ class AnomalyDetector {
             cityCoordinates["San Diego"] = {32.7157, -117.1611};
             cityCoordinates["Dallas"] = {32.7767, -96.7970};
             cityCoordinates["San Jose"] = {37.3382, -121.8863};
+
+            alertFile.open("alerts.ndjson");
+            if(!alertFile.is_open()){
+                cerr << "Error opening alert file" << endl;
+            } else
+                cout << "AnomalyDetector initialized, ready to process transactions." << endl;
+        }
+
+        ~AnomalyDetector(){
+            if(alertFile.is_open()){
+                alertFile.close();
+                cout << "Alerts saved to alerts.ndjson" << endl;
+            }
         }
 
         void process(const Transaction& t){
@@ -100,14 +116,12 @@ class AnomalyDetector {
                     double speed = distance / timeDiffHours; // speed in km/h
 
                     if (speed > ANOMALY_SPEED){
-                        cout << fixed << setprecision(2);
-                        cout << "Anomaly detected for UserID: " << t.userId
-                             <<  " | Previous City: " << lastState.lastCity
-                             <<  " | Curret City: " << t.city
-                             <<  " | Time difference: " << timeDiffHours << "h"
-                             <<  " | Distance: " << distance << "km"
-                             <<  " | Speed: " << speed << "km/h" 
-                             << endl;
+                        alertFile << "{\"alert_type\": \"impossible_travel\", "
+                            << "\"user_id\": " << t.userId << ", "
+                            << "\"from\": \"" << lastState.lastCity << "\", "
+                            << "\"to\": \"" << t.city << "\", "
+                            << "\"distance_km\": " << (int)distance << ", "
+                            << "\"speed_kmh\": " << (int)speed << "}" << std::endl;
                     }
                 }
             }

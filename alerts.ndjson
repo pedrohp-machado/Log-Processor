@@ -1,0 +1,417 @@
+{"alert_type": "impossible_travel", "user_id": 382, "from": "Los Angeles", "to": "Dallas", "distance_km": 1991, "speed_kmh": 2753}
+{"alert_type": "impossible_travel", "user_id": 7761, "from": "San Diego", "to": "Houston", "distance_km": 2093, "speed_kmh": 1135}
+{"alert_type": "impossible_travel", "user_id": 1075, "from": "San Jose", "to": "Dallas", "distance_km": 2331, "speed_kmh": 7409}
+{"alert_type": "impossible_travel", "user_id": 5534, "from": "Chicago", "to": "Phoenix", "distance_km": 2336, "speed_kmh": 2875}
+{"alert_type": "impossible_travel", "user_id": 9464, "from": "San Jose", "to": "New York", "distance_km": 4101, "speed_kmh": 1667}
+{"alert_type": "impossible_travel", "user_id": 8401, "from": "San Diego", "to": "Phoenix", "distance_km": 480, "speed_kmh": 1929}
+{"alert_type": "impossible_travel", "user_id": 3267, "from": "San Antonio", "to": "Philadelphia", "distance_km": 2422, "speed_kmh": 2434}
+{"alert_type": "impossible_travel", "user_id": 1620, "from": "Philadelphia", "to": "Phoenix", "distance_km": 3344, "speed_kmh": 1333}
+{"alert_type": "impossible_travel", "user_id": 9495, "from": "San Jose", "to": "San Antonio", "distance_km": 2335, "speed_kmh": 1189}
+{"alert_type": "impossible_travel", "user_id": 1760, "from": "Houston", "to": "San Jose", "distance_km": 2587, "speed_kmh": 1438}
+{"alert_type": "impossible_travel", "user_id": 850, "from": "San Antonio", "to": "Philadelphia", "distance_km": 2422, "speed_kmh": 2195}
+{"alert_type": "impossible_travel", "user_id": 1745, "from": "San Jose", "to": "Chicago", "distance_km": 2957, "speed_kmh": 1473}
+{"alert_type": "impossible_travel", "user_id": 4315, "from": "Los Angeles", "to": "Philadelphia", "distance_km": 3843, "speed_kmh": 1822}
+{"alert_type": "impossible_travel", "user_id": 129, "from": "Los Angeles", "to": "Dallas", "distance_km": 1991, "speed_kmh": 1286}
+{"alert_type": "impossible_travel", "user_id": 2761, "from": "San Antonio", "to": "Los Angeles", "distance_km": 1933, "speed_kmh": 1399}
+{"alert_type": "impossible_travel", "user_id": 4784, "from": "Houston", "to": "San Diego", "distance_km": 2093, "speed_kmh": 1091}
+{"alert_type": "impossible_travel", "user_id": 7978, "from": "Phoenix", "to": "San Diego", "distance_km": 480, "speed_kmh": 1801}
+{"alert_type": "impossible_travel", "user_id": 9032, "from": "Chicago", "to": "San Jose", "distance_km": 2957, "speed_kmh": 1529}
+{"alert_type": "impossible_travel", "user_id": 2550, "from": "Chicago", "to": "Phoenix", "distance_km": 2336, "speed_kmh": 2665}
+{"alert_type": "impossible_travel", "user_id": 3630, "from": "Chicago", "to": "San Diego", "distance_km": 2786, "speed_kmh": 2090}
+{"alert_type": "impossible_travel", "user_id": 7599, "from": "Chicago", "to": "San Diego", "distance_km": 2786, "speed_kmh": 2579}
+{"alert_type": "impossible_travel", "user_id": 9414, "from": "Los Angeles", "to": "New York", "distance_km": 3935, "speed_kmh": 1353}
+{"alert_type": "impossible_travel", "user_id": 5874, "from": "San Antonio", "to": "Phoenix", "distance_km": 1362, "speed_kmh": 1233}
+{"alert_type": "impossible_travel", "user_id": 3257, "from": "San Jose", "to": "Dallas", "distance_km": 2331, "speed_kmh": 3290}
+{"alert_type": "impossible_travel", "user_id": 2327, "from": "Phoenix", "to": "Philadelphia", "distance_km": 3344, "speed_kmh": 1004}
+{"alert_type": "impossible_travel", "user_id": 6757, "from": "Houston", "to": "San Jose", "distance_km": 2587, "speed_kmh": 5146}
+{"alert_type": "impossible_travel", "user_id": 69, "from": "New York", "to": "San Diego", "distance_km": 3907, "speed_kmh": 1679}
+{"alert_type": "impossible_travel", "user_id": 8111, "from": "Philadelphia", "to": "Dallas", "distance_km": 2087, "speed_kmh": 1330}
+{"alert_type": "impossible_travel", "user_id": 8006, "from": "Dallas", "to": "Los Angeles", "distance_km": 1991, "speed_kmh": 2031}
+{"alert_type": "impossible_travel", "user_id": 7638, "from": "Los Angeles", "to": "Houston", "distance_km": 2206, "speed_kmh": 1464}
+{"alert_type": "impossible_travel", "user_id": 1917, "from": "San Diego", "to": "New York", "distance_km": 3907, "speed_kmh": 3399}
+{"alert_type": "impossible_travel", "user_id": 3313, "from": "Phoenix", "to": "New York", "distance_km": 3443, "speed_kmh": 2064}
+{"alert_type": "impossible_travel", "user_id": 9439, "from": "New York", "to": "Dallas", "distance_km": 2205, "speed_kmh": 2326}
+{"alert_type": "impossible_travel", "user_id": 9183, "from": "Phoenix", "to": "Philadelphia", "distance_km": 3344, "speed_kmh": 3337}
+{"alert_type": "impossible_travel", "user_id": 5402, "from": "Chicago", "to": "San Diego", "distance_km": 2786, "speed_kmh": 1835}
+{"alert_type": "impossible_travel", "user_id": 7782, "from": "Philadelphia", "to": "San Diego", "distance_km": 3810, "speed_kmh": 2046}
+{"alert_type": "impossible_travel", "user_id": 1496, "from": "Phoenix", "to": "Philadelphia", "distance_km": 3344, "speed_kmh": 7422}
+{"alert_type": "impossible_travel", "user_id": 4895, "from": "San Antonio", "to": "New York", "distance_km": 2545, "speed_kmh": 1375}
+{"alert_type": "impossible_travel", "user_id": 6747, "from": "Houston", "to": "Los Angeles", "distance_km": 2206, "speed_kmh": 1188}
+{"alert_type": "impossible_travel", "user_id": 6622, "from": "Los Angeles", "to": "New York", "distance_km": 3935, "speed_kmh": 1062}
+{"alert_type": "impossible_travel", "user_id": 7776, "from": "New York", "to": "Houston", "distance_km": 2281, "speed_kmh": 1252}
+{"alert_type": "impossible_travel", "user_id": 2193, "from": "Phoenix", "to": "Philadelphia", "distance_km": 3344, "speed_kmh": 11699}
+{"alert_type": "impossible_travel", "user_id": 6893, "from": "San Antonio", "to": "San Jose", "distance_km": 2335, "speed_kmh": 17300}
+{"alert_type": "impossible_travel", "user_id": 6904, "from": "San Jose", "to": "Houston", "distance_km": 2587, "speed_kmh": 1077}
+{"alert_type": "impossible_travel", "user_id": 5154, "from": "Chicago", "to": "San Antonio", "distance_km": 1694, "speed_kmh": 1488}
+{"alert_type": "impossible_travel", "user_id": 3668, "from": "Chicago", "to": "San Jose", "distance_km": 2957, "speed_kmh": 5148}
+{"alert_type": "impossible_travel", "user_id": 3749, "from": "Houston", "to": "San Diego", "distance_km": 2093, "speed_kmh": 1102}
+{"alert_type": "impossible_travel", "user_id": 3985, "from": "San Antonio", "to": "San Diego", "distance_km": 1812, "speed_kmh": 1920}
+{"alert_type": "impossible_travel", "user_id": 892, "from": "Philadelphia", "to": "San Diego", "distance_km": 3810, "speed_kmh": 244964}
+{"alert_type": "impossible_travel", "user_id": 9751, "from": "Houston", "to": "Philadelphia", "distance_km": 2156, "speed_kmh": 4246}
+{"alert_type": "impossible_travel", "user_id": 6124, "from": "Philadelphia", "to": "San Antonio", "distance_km": 2422, "speed_kmh": 1127}
+{"alert_type": "impossible_travel", "user_id": 3657, "from": "San Diego", "to": "Philadelphia", "distance_km": 3810, "speed_kmh": 2730}
+{"alert_type": "impossible_travel", "user_id": 1387, "from": "New York", "to": "Phoenix", "distance_km": 3443, "speed_kmh": 1745}
+{"alert_type": "impossible_travel", "user_id": 531, "from": "Houston", "to": "San Diego", "distance_km": 2093, "speed_kmh": 2201}
+{"alert_type": "impossible_travel", "user_id": 9830, "from": "New York", "to": "San Jose", "distance_km": 4101, "speed_kmh": 2214}
+{"alert_type": "impossible_travel", "user_id": 6619, "from": "San Antonio", "to": "Los Angeles", "distance_km": 1933, "speed_kmh": 2053}
+{"alert_type": "impossible_travel", "user_id": 3815, "from": "New York", "to": "San Diego", "distance_km": 3907, "speed_kmh": 10372}
+{"alert_type": "impossible_travel", "user_id": 664, "from": "New York", "to": "San Jose", "distance_km": 4101, "speed_kmh": 1357}
+{"alert_type": "impossible_travel", "user_id": 365, "from": "San Jose", "to": "Phoenix", "distance_km": 988, "speed_kmh": 2028}
+{"alert_type": "impossible_travel", "user_id": 3283, "from": "Chicago", "to": "Los Angeles", "distance_km": 2803, "speed_kmh": 84826}
+{"alert_type": "impossible_travel", "user_id": 1792, "from": "San Diego", "to": "Philadelphia", "distance_km": 3810, "speed_kmh": 1206}
+{"alert_type": "impossible_travel", "user_id": 8557, "from": "San Diego", "to": "New York", "distance_km": 3907, "speed_kmh": 1110}
+{"alert_type": "impossible_travel", "user_id": 1981, "from": "Philadelphia", "to": "Los Angeles", "distance_km": 3843, "speed_kmh": 1030}
+{"alert_type": "impossible_travel", "user_id": 7106, "from": "Los Angeles", "to": "Philadelphia", "distance_km": 3843, "speed_kmh": 1336}
+{"alert_type": "impossible_travel", "user_id": 5099, "from": "Philadelphia", "to": "San Jose", "distance_km": 4021, "speed_kmh": 5887}
+{"alert_type": "impossible_travel", "user_id": 4120, "from": "Chicago", "to": "San Diego", "distance_km": 2786, "speed_kmh": 1966}
+{"alert_type": "impossible_travel", "user_id": 5375, "from": "Chicago", "to": "San Diego", "distance_km": 2786, "speed_kmh": 1546}
+{"alert_type": "impossible_travel", "user_id": 9947, "from": "San Diego", "to": "Philadelphia", "distance_km": 3810, "speed_kmh": 2610}
+{"alert_type": "impossible_travel", "user_id": 8661, "from": "San Jose", "to": "San Antonio", "distance_km": 2335, "speed_kmh": 1425}
+{"alert_type": "impossible_travel", "user_id": 5414, "from": "Philadelphia", "to": "San Jose", "distance_km": 4021, "speed_kmh": 3399}
+{"alert_type": "impossible_travel", "user_id": 6818, "from": "New York", "to": "San Diego", "distance_km": 3907, "speed_kmh": 2216}
+{"alert_type": "impossible_travel", "user_id": 4610, "from": "Houston", "to": "Phoenix", "distance_km": 1632, "speed_kmh": 1553}
+{"alert_type": "impossible_travel", "user_id": 9809, "from": "Los Angeles", "to": "Phoenix", "distance_km": 574, "speed_kmh": 2279}
+{"alert_type": "impossible_travel", "user_id": 5287, "from": "New York", "to": "San Diego", "distance_km": 3907, "speed_kmh": 1271}
+{"alert_type": "impossible_travel", "user_id": 990, "from": "Philadelphia", "to": "Dallas", "distance_km": 2087, "speed_kmh": 4421}
+{"alert_type": "impossible_travel", "user_id": 5288, "from": "New York", "to": "San Jose", "distance_km": 4101, "speed_kmh": 2444}
+{"alert_type": "impossible_travel", "user_id": 8303, "from": "Philadelphia", "to": "Houston", "distance_km": 2156, "speed_kmh": 1275}
+{"alert_type": "impossible_travel", "user_id": 2788, "from": "Los Angeles", "to": "Houston", "distance_km": 2206, "speed_kmh": 1097}
+{"alert_type": "impossible_travel", "user_id": 2366, "from": "Los Angeles", "to": "Houston", "distance_km": 2206, "speed_kmh": 3615}
+{"alert_type": "impossible_travel", "user_id": 5968, "from": "San Antonio", "to": "New York", "distance_km": 2545, "speed_kmh": 1052}
+{"alert_type": "impossible_travel", "user_id": 7367, "from": "Chicago", "to": "San Jose", "distance_km": 2957, "speed_kmh": 1157}
+{"alert_type": "impossible_travel", "user_id": 2751, "from": "Houston", "to": "Phoenix", "distance_km": 1632, "speed_kmh": 3888}
+{"alert_type": "impossible_travel", "user_id": 9456, "from": "Chicago", "to": "Phoenix", "distance_km": 2336, "speed_kmh": 1409}
+{"alert_type": "impossible_travel", "user_id": 8949, "from": "San Antonio", "to": "Chicago", "distance_km": 1694, "speed_kmh": 2210}
+{"alert_type": "impossible_travel", "user_id": 8766, "from": "San Diego", "to": "Philadelphia", "distance_km": 3810, "speed_kmh": 2517}
+{"alert_type": "impossible_travel", "user_id": 6490, "from": "Philadelphia", "to": "San Diego", "distance_km": 3810, "speed_kmh": 20943}
+{"alert_type": "impossible_travel", "user_id": 7049, "from": "San Antonio", "to": "San Diego", "distance_km": 1812, "speed_kmh": 1110}
+{"alert_type": "impossible_travel", "user_id": 6214, "from": "Chicago", "to": "Philadelphia", "distance_km": 1068, "speed_kmh": 16360}
+{"alert_type": "impossible_travel", "user_id": 9201, "from": "Los Angeles", "to": "New York", "distance_km": 3935, "speed_kmh": 21306}
+{"alert_type": "impossible_travel", "user_id": 7117, "from": "New York", "to": "Houston", "distance_km": 2281, "speed_kmh": 1015}
+{"alert_type": "impossible_travel", "user_id": 570, "from": "Philadelphia", "to": "Phoenix", "distance_km": 3344, "speed_kmh": 2283}
+{"alert_type": "impossible_travel", "user_id": 2500, "from": "San Jose", "to": "Philadelphia", "distance_km": 4021, "speed_kmh": 2564}
+{"alert_type": "impossible_travel", "user_id": 5630, "from": "Phoenix", "to": "New York", "distance_km": 3443, "speed_kmh": 2847}
+{"alert_type": "impossible_travel", "user_id": 6230, "from": "San Jose", "to": "Philadelphia", "distance_km": 4021, "speed_kmh": 4531}
+{"alert_type": "impossible_travel", "user_id": 1468, "from": "San Antonio", "to": "Philadelphia", "distance_km": 2422, "speed_kmh": 2608}
+{"alert_type": "impossible_travel", "user_id": 837, "from": "San Diego", "to": "San Antonio", "distance_km": 1812, "speed_kmh": 12039}
+{"alert_type": "impossible_travel", "user_id": 9195, "from": "San Antonio", "to": "Chicago", "distance_km": 1694, "speed_kmh": 1846}
+{"alert_type": "impossible_travel", "user_id": 4723, "from": "Dallas", "to": "San Diego", "distance_km": 1901, "speed_kmh": 1899}
+{"alert_type": "impossible_travel", "user_id": 7788, "from": "Chicago", "to": "San Antonio", "distance_km": 1694, "speed_kmh": 1126}
+{"alert_type": "impossible_travel", "user_id": 6234, "from": "Dallas", "to": "New York", "distance_km": 2205, "speed_kmh": 1604}
+{"alert_type": "impossible_travel", "user_id": 1913, "from": "New York", "to": "Chicago", "distance_km": 1144, "speed_kmh": 5288}
+{"alert_type": "impossible_travel", "user_id": 4405, "from": "Houston", "to": "San Jose", "distance_km": 2587, "speed_kmh": 1126}
+{"alert_type": "impossible_travel", "user_id": 4823, "from": "San Diego", "to": "New York", "distance_km": 3907, "speed_kmh": 1845}
+{"alert_type": "impossible_travel", "user_id": 7256, "from": "Chicago", "to": "Philadelphia", "distance_km": 1068, "speed_kmh": 2409}
+{"alert_type": "impossible_travel", "user_id": 3478, "from": "Chicago", "to": "Los Angeles", "distance_km": 2803, "speed_kmh": 2018859}
+{"alert_type": "impossible_travel", "user_id": 3136, "from": "Houston", "to": "Philadelphia", "distance_km": 2156, "speed_kmh": 1393}
+{"alert_type": "impossible_travel", "user_id": 4400, "from": "Los Angeles", "to": "Philadelphia", "distance_km": 3843, "speed_kmh": 2772}
+{"alert_type": "impossible_travel", "user_id": 8788, "from": "Chicago", "to": "Philadelphia", "distance_km": 1068, "speed_kmh": 1170}
+{"alert_type": "impossible_travel", "user_id": 7815, "from": "San Antonio", "to": "Phoenix", "distance_km": 1362, "speed_kmh": 3620}
+{"alert_type": "impossible_travel", "user_id": 3714, "from": "Dallas", "to": "Phoenix", "distance_km": 1423, "speed_kmh": 1806}
+{"alert_type": "impossible_travel", "user_id": 7732, "from": "Philadelphia", "to": "Dallas", "distance_km": 2087, "speed_kmh": 4884}
+{"alert_type": "impossible_travel", "user_id": 2460, "from": "San Jose", "to": "New York", "distance_km": 4101, "speed_kmh": 3127}
+{"alert_type": "impossible_travel", "user_id": 5492, "from": "Chicago", "to": "Dallas", "distance_km": 1294, "speed_kmh": 1188}
+{"alert_type": "impossible_travel", "user_id": 2507, "from": "Dallas", "to": "Chicago", "distance_km": 1294, "speed_kmh": 2087}
+{"alert_type": "impossible_travel", "user_id": 469, "from": "Chicago", "to": "San Diego", "distance_km": 2786, "speed_kmh": 1283}
+{"alert_type": "impossible_travel", "user_id": 4206, "from": "Philadelphia", "to": "Los Angeles", "distance_km": 3843, "speed_kmh": 14205}
+{"alert_type": "impossible_travel", "user_id": 4753, "from": "New York", "to": "Houston", "distance_km": 2281, "speed_kmh": 4733}
+{"alert_type": "impossible_travel", "user_id": 2300, "from": "Houston", "to": "Los Angeles", "distance_km": 2206, "speed_kmh": 1838}
+{"alert_type": "impossible_travel", "user_id": 7624, "from": "Chicago", "to": "San Antonio", "distance_km": 1694, "speed_kmh": 3444}
+{"alert_type": "impossible_travel", "user_id": 1991, "from": "Chicago", "to": "New York", "distance_km": 1144, "speed_kmh": 1222}
+{"alert_type": "impossible_travel", "user_id": 6036, "from": "Philadelphia", "to": "San Jose", "distance_km": 4021, "speed_kmh": 1059}
+{"alert_type": "impossible_travel", "user_id": 9727, "from": "Phoenix", "to": "San Jose", "distance_km": 988, "speed_kmh": 8872}
+{"alert_type": "impossible_travel", "user_id": 4887, "from": "San Jose", "to": "Chicago", "distance_km": 2957, "speed_kmh": 1548}
+{"alert_type": "impossible_travel", "user_id": 8128, "from": "Chicago", "to": "Los Angeles", "distance_km": 2803, "speed_kmh": 1030}
+{"alert_type": "impossible_travel", "user_id": 8919, "from": "San Antonio", "to": "Chicago", "distance_km": 1694, "speed_kmh": 3566}
+{"alert_type": "impossible_travel", "user_id": 5327, "from": "San Jose", "to": "Phoenix", "distance_km": 988, "speed_kmh": 5350}
+{"alert_type": "impossible_travel", "user_id": 8138, "from": "Houston", "to": "Philadelphia", "distance_km": 2156, "speed_kmh": 1712}
+{"alert_type": "impossible_travel", "user_id": 6624, "from": "San Diego", "to": "Chicago", "distance_km": 2786, "speed_kmh": 1193}
+{"alert_type": "impossible_travel", "user_id": 1409, "from": "San Diego", "to": "Chicago", "distance_km": 2786, "speed_kmh": 1222}
+{"alert_type": "impossible_travel", "user_id": 7277, "from": "New York", "to": "Dallas", "distance_km": 2205, "speed_kmh": 1605}
+{"alert_type": "impossible_travel", "user_id": 5392, "from": "San Diego", "to": "New York", "distance_km": 3907, "speed_kmh": 1683}
+{"alert_type": "impossible_travel", "user_id": 8592, "from": "Los Angeles", "to": "Philadelphia", "distance_km": 3843, "speed_kmh": 8915}
+{"alert_type": "impossible_travel", "user_id": 3253, "from": "Los Angeles", "to": "Chicago", "distance_km": 2803, "speed_kmh": 1144}
+{"alert_type": "impossible_travel", "user_id": 2486, "from": "Los Angeles", "to": "Dallas", "distance_km": 1991, "speed_kmh": 15225}
+{"alert_type": "impossible_travel", "user_id": 6733, "from": "San Antonio", "to": "Los Angeles", "distance_km": 1933, "speed_kmh": 13867}
+{"alert_type": "impossible_travel", "user_id": 1240, "from": "San Diego", "to": "Philadelphia", "distance_km": 3810, "speed_kmh": 7650}
+{"alert_type": "impossible_travel", "user_id": 7788, "from": "New York", "to": "Los Angeles", "distance_km": 3935, "speed_kmh": 1058}
+{"alert_type": "impossible_travel", "user_id": 84, "from": "Philadelphia", "to": "San Antonio", "distance_km": 2422, "speed_kmh": 2590}
+{"alert_type": "impossible_travel", "user_id": 8424, "from": "Phoenix", "to": "Chicago", "distance_km": 2336, "speed_kmh": 1338}
+{"alert_type": "impossible_travel", "user_id": 5858, "from": "Phoenix", "to": "Philadelphia", "distance_km": 3344, "speed_kmh": 10459}
+{"alert_type": "impossible_travel", "user_id": 4878, "from": "New York", "to": "Houston", "distance_km": 2281, "speed_kmh": 1143}
+{"alert_type": "impossible_travel", "user_id": 5100, "from": "Dallas", "to": "San Antonio", "distance_km": 406, "speed_kmh": 1498}
+{"alert_type": "impossible_travel", "user_id": 2995, "from": "Dallas", "to": "San Diego", "distance_km": 1901, "speed_kmh": 1458}
+{"alert_type": "impossible_travel", "user_id": 8400, "from": "San Antonio", "to": "Los Angeles", "distance_km": 1933, "speed_kmh": 1676}
+{"alert_type": "impossible_travel", "user_id": 485, "from": "Philadelphia", "to": "Houston", "distance_km": 2156, "speed_kmh": 1322}
+{"alert_type": "impossible_travel", "user_id": 4987, "from": "Philadelphia", "to": "Phoenix", "distance_km": 3344, "speed_kmh": 9819}
+{"alert_type": "impossible_travel", "user_id": 4790, "from": "Philadelphia", "to": "San Jose", "distance_km": 4021, "speed_kmh": 4854}
+{"alert_type": "impossible_travel", "user_id": 2506, "from": "San Antonio", "to": "Houston", "distance_km": 304, "speed_kmh": 1034}
+{"alert_type": "impossible_travel", "user_id": 2418, "from": "Dallas", "to": "San Jose", "distance_km": 2331, "speed_kmh": 34978}
+{"alert_type": "impossible_travel", "user_id": 4926, "from": "Houston", "to": "San Jose", "distance_km": 2587, "speed_kmh": 11880}
+{"alert_type": "impossible_travel", "user_id": 2057, "from": "New York", "to": "San Antonio", "distance_km": 2545, "speed_kmh": 1257}
+{"alert_type": "impossible_travel", "user_id": 7853, "from": "New York", "to": "Phoenix", "distance_km": 3443, "speed_kmh": 399913}
+{"alert_type": "impossible_travel", "user_id": 4221, "from": "New York", "to": "San Antonio", "distance_km": 2545, "speed_kmh": 1261}
+{"alert_type": "impossible_travel", "user_id": 3677, "from": "San Antonio", "to": "Los Angeles", "distance_km": 1933, "speed_kmh": 1256}
+{"alert_type": "impossible_travel", "user_id": 3675, "from": "San Jose", "to": "Philadelphia", "distance_km": 4021, "speed_kmh": 2057}
+{"alert_type": "impossible_travel", "user_id": 7713, "from": "Houston", "to": "Phoenix", "distance_km": 1632, "speed_kmh": 4808}
+{"alert_type": "impossible_travel", "user_id": 1248, "from": "Houston", "to": "Chicago", "distance_km": 1515, "speed_kmh": 1738}
+{"alert_type": "impossible_travel", "user_id": 9531, "from": "Philadelphia", "to": "San Jose", "distance_km": 4021, "speed_kmh": 3958}
+{"alert_type": "impossible_travel", "user_id": 3662, "from": "Houston", "to": "New York", "distance_km": 2281, "speed_kmh": 228134}
+{"alert_type": "impossible_travel", "user_id": 8678, "from": "Chicago", "to": "Los Angeles", "distance_km": 2803, "speed_kmh": 1110}
+{"alert_type": "impossible_travel", "user_id": 3870, "from": "Dallas", "to": "Los Angeles", "distance_km": 1991, "speed_kmh": 2050}
+{"alert_type": "impossible_travel", "user_id": 7452, "from": "Philadelphia", "to": "Dallas", "distance_km": 2087, "speed_kmh": 6269}
+{"alert_type": "impossible_travel", "user_id": 1370, "from": "Phoenix", "to": "Houston", "distance_km": 1632, "speed_kmh": 1053}
+{"alert_type": "impossible_travel", "user_id": 5288, "from": "Phoenix", "to": "San Jose", "distance_km": 988, "speed_kmh": 2585}
+{"alert_type": "impossible_travel", "user_id": 6099, "from": "Los Angeles", "to": "Houston", "distance_km": 2206, "speed_kmh": 1166}
+{"alert_type": "impossible_travel", "user_id": 3727, "from": "New York", "to": "Phoenix", "distance_km": 3443, "speed_kmh": 1236}
+{"alert_type": "impossible_travel", "user_id": 4515, "from": "San Diego", "to": "Dallas", "distance_km": 1901, "speed_kmh": 5459}
+{"alert_type": "impossible_travel", "user_id": 3440, "from": "Houston", "to": "San Jose", "distance_km": 2587, "speed_kmh": 1398}
+{"alert_type": "impossible_travel", "user_id": 8240, "from": "New York", "to": "Dallas", "distance_km": 2205, "speed_kmh": 1280}
+{"alert_type": "impossible_travel", "user_id": 1334, "from": "Philadelphia", "to": "San Diego", "distance_km": 3810, "speed_kmh": 1920}
+{"alert_type": "impossible_travel", "user_id": 5130, "from": "Los Angeles", "to": "Philadelphia", "distance_km": 3843, "speed_kmh": 2233}
+{"alert_type": "impossible_travel", "user_id": 4619, "from": "Los Angeles", "to": "San Antonio", "distance_km": 1933, "speed_kmh": 1032}
+{"alert_type": "impossible_travel", "user_id": 7868, "from": "Los Angeles", "to": "San Antonio", "distance_km": 1933, "speed_kmh": 15470}
+{"alert_type": "impossible_travel", "user_id": 4141, "from": "Chicago", "to": "Phoenix", "distance_km": 2336, "speed_kmh": 3092}
+{"alert_type": "impossible_travel", "user_id": 3974, "from": "San Jose", "to": "Houston", "distance_km": 2587, "speed_kmh": 1556}
+{"alert_type": "impossible_travel", "user_id": 5118, "from": "Los Angeles", "to": "New York", "distance_km": 3935, "speed_kmh": 3467}
+{"alert_type": "impossible_travel", "user_id": 3437, "from": "San Jose", "to": "San Antonio", "distance_km": 2335, "speed_kmh": 27477}
+{"alert_type": "impossible_travel", "user_id": 165, "from": "Phoenix", "to": "Dallas", "distance_km": 1423, "speed_kmh": 1647}
+{"alert_type": "impossible_travel", "user_id": 8919, "from": "San Jose", "to": "New York", "distance_km": 4101, "speed_kmh": 8691}
+{"alert_type": "impossible_travel", "user_id": 6804, "from": "Houston", "to": "Los Angeles", "distance_km": 2206, "speed_kmh": 1276}
+{"alert_type": "impossible_travel", "user_id": 3126, "from": "New York", "to": "Phoenix", "distance_km": 3443, "speed_kmh": 4193}
+{"alert_type": "impossible_travel", "user_id": 3724, "from": "San Jose", "to": "San Antonio", "distance_km": 2335, "speed_kmh": 1014}
+{"alert_type": "impossible_travel", "user_id": 2665, "from": "Chicago", "to": "Los Angeles", "distance_km": 2803, "speed_kmh": 1121}
+{"alert_type": "impossible_travel", "user_id": 4029, "from": "Philadelphia", "to": "Los Angeles", "distance_km": 3843, "speed_kmh": 1703}
+{"alert_type": "impossible_travel", "user_id": 8796, "from": "San Diego", "to": "Phoenix", "distance_km": 480, "speed_kmh": 1221}
+{"alert_type": "impossible_travel", "user_id": 8374, "from": "San Diego", "to": "New York", "distance_km": 3907, "speed_kmh": 1392}
+{"alert_type": "impossible_travel", "user_id": 5294, "from": "Houston", "to": "Chicago", "distance_km": 1515, "speed_kmh": 2785}
+{"alert_type": "impossible_travel", "user_id": 9665, "from": "San Jose", "to": "Los Angeles", "distance_km": 491, "speed_kmh": 2610}
+{"alert_type": "impossible_travel", "user_id": 4984, "from": "San Jose", "to": "Houston", "distance_km": 2587, "speed_kmh": 1560}
+{"alert_type": "impossible_travel", "user_id": 1551, "from": "New York", "to": "Phoenix", "distance_km": 3443, "speed_kmh": 1503}
+{"alert_type": "impossible_travel", "user_id": 5457, "from": "San Antonio", "to": "San Jose", "distance_km": 2335, "speed_kmh": 1198}
+{"alert_type": "impossible_travel", "user_id": 4872, "from": "San Diego", "to": "New York", "distance_km": 3907, "speed_kmh": 6901}
+{"alert_type": "impossible_travel", "user_id": 4382, "from": "Philadelphia", "to": "San Jose", "distance_km": 4021, "speed_kmh": 65508}
+{"alert_type": "impossible_travel", "user_id": 4467, "from": "New York", "to": "San Diego", "distance_km": 3907, "speed_kmh": 1235}
+{"alert_type": "impossible_travel", "user_id": 5768, "from": "Phoenix", "to": "Los Angeles", "distance_km": 574, "speed_kmh": 1467}
+{"alert_type": "impossible_travel", "user_id": 4551, "from": "Philadelphia", "to": "Dallas", "distance_km": 2087, "speed_kmh": 8679}
+{"alert_type": "impossible_travel", "user_id": 5631, "from": "Phoenix", "to": "Los Angeles", "distance_km": 574, "speed_kmh": 1653}
+{"alert_type": "impossible_travel", "user_id": 3605, "from": "Houston", "to": "Chicago", "distance_km": 1515, "speed_kmh": 2380}
+{"alert_type": "impossible_travel", "user_id": 1437, "from": "Phoenix", "to": "New York", "distance_km": 3443, "speed_kmh": 3221}
+{"alert_type": "impossible_travel", "user_id": 7762, "from": "Los Angeles", "to": "New York", "distance_km": 3935, "speed_kmh": 2517}
+{"alert_type": "impossible_travel", "user_id": 7327, "from": "Phoenix", "to": "Philadelphia", "distance_km": 3344, "speed_kmh": 1243}
+{"alert_type": "impossible_travel", "user_id": 1592, "from": "San Diego", "to": "Philadelphia", "distance_km": 3810, "speed_kmh": 6304}
+{"alert_type": "impossible_travel", "user_id": 3895, "from": "San Diego", "to": "Chicago", "distance_km": 2786, "speed_kmh": 2379}
+{"alert_type": "impossible_travel", "user_id": 1060, "from": "Philadelphia", "to": "San Jose", "distance_km": 4021, "speed_kmh": 1781}
+{"alert_type": "impossible_travel", "user_id": 6989, "from": "San Diego", "to": "Chicago", "distance_km": 2786, "speed_kmh": 1079}
+{"alert_type": "impossible_travel", "user_id": 215, "from": "Chicago", "to": "Philadelphia", "distance_km": 1068, "speed_kmh": 43200}
+{"alert_type": "impossible_travel", "user_id": 4535, "from": "Phoenix", "to": "Dallas", "distance_km": 1423, "speed_kmh": 1133}
+{"alert_type": "impossible_travel", "user_id": 9747, "from": "Philadelphia", "to": "San Jose", "distance_km": 4021, "speed_kmh": 12984}
+{"alert_type": "impossible_travel", "user_id": 9701, "from": "San Diego", "to": "San Jose", "distance_km": 670, "speed_kmh": 75386}
+{"alert_type": "impossible_travel", "user_id": 7231, "from": "Chicago", "to": "San Antonio", "distance_km": 1694, "speed_kmh": 2185}
+{"alert_type": "impossible_travel", "user_id": 4684, "from": "San Jose", "to": "Chicago", "distance_km": 2957, "speed_kmh": 11387}
+{"alert_type": "impossible_travel", "user_id": 4725, "from": "Houston", "to": "Chicago", "distance_km": 1515, "speed_kmh": 1923}
+{"alert_type": "impossible_travel", "user_id": 4901, "from": "San Antonio", "to": "Dallas", "distance_km": 406, "speed_kmh": 1471}
+{"alert_type": "impossible_travel", "user_id": 5267, "from": "Dallas", "to": "Phoenix", "distance_km": 1423, "speed_kmh": 1289}
+{"alert_type": "impossible_travel", "user_id": 1158, "from": "Dallas", "to": "Philadelphia", "distance_km": 2087, "speed_kmh": 4327}
+{"alert_type": "impossible_travel", "user_id": 7425, "from": "New York", "to": "Houston", "distance_km": 2281, "speed_kmh": 2509}
+{"alert_type": "impossible_travel", "user_id": 5336, "from": "Phoenix", "to": "Philadelphia", "distance_km": 3344, "speed_kmh": 1878}
+{"alert_type": "impossible_travel", "user_id": 6888, "from": "Philadelphia", "to": "San Jose", "distance_km": 4021, "speed_kmh": 10613}
+{"alert_type": "impossible_travel", "user_id": 1149, "from": "Dallas", "to": "Phoenix", "distance_km": 1423, "speed_kmh": 1588}
+{"alert_type": "impossible_travel", "user_id": 4825, "from": "Chicago", "to": "San Diego", "distance_km": 2786, "speed_kmh": 2239}
+{"alert_type": "impossible_travel", "user_id": 9300, "from": "Philadelphia", "to": "San Jose", "distance_km": 4021, "speed_kmh": 1728}
+{"alert_type": "impossible_travel", "user_id": 3923, "from": "Chicago", "to": "San Jose", "distance_km": 2957, "speed_kmh": 3657}
+{"alert_type": "impossible_travel", "user_id": 4813, "from": "Los Angeles", "to": "New York", "distance_km": 3935, "speed_kmh": 2026}
+{"alert_type": "impossible_travel", "user_id": 9248, "from": "San Jose", "to": "Dallas", "distance_km": 2331, "speed_kmh": 39412}
+{"alert_type": "impossible_travel", "user_id": 8443, "from": "San Diego", "to": "Chicago", "distance_km": 2786, "speed_kmh": 1503}
+{"alert_type": "impossible_travel", "user_id": 352, "from": "New York", "to": "San Antonio", "distance_km": 2545, "speed_kmh": 2966}
+{"alert_type": "impossible_travel", "user_id": 3474, "from": "Philadelphia", "to": "San Jose", "distance_km": 4021, "speed_kmh": 3285}
+{"alert_type": "impossible_travel", "user_id": 6538, "from": "Dallas", "to": "Philadelphia", "distance_km": 2087, "speed_kmh": 1377}
+{"alert_type": "impossible_travel", "user_id": 7474, "from": "New York", "to": "Phoenix", "distance_km": 3443, "speed_kmh": 1048}
+{"alert_type": "impossible_travel", "user_id": 1816, "from": "San Jose", "to": "San Diego", "distance_km": 670, "speed_kmh": 3563}
+{"alert_type": "impossible_travel", "user_id": 4013, "from": "San Jose", "to": "Philadelphia", "distance_km": 4021, "speed_kmh": 1709}
+{"alert_type": "impossible_travel", "user_id": 740, "from": "Dallas", "to": "Los Angeles", "distance_km": 1991, "speed_kmh": 57369}
+{"alert_type": "impossible_travel", "user_id": 1657, "from": "New York", "to": "Philadelphia", "distance_km": 129, "speed_kmh": 1227}
+{"alert_type": "impossible_travel", "user_id": 6732, "from": "San Diego", "to": "Houston", "distance_km": 2093, "speed_kmh": 1894}
+{"alert_type": "impossible_travel", "user_id": 7084, "from": "San Diego", "to": "Philadelphia", "distance_km": 3810, "speed_kmh": 5941}
+{"alert_type": "impossible_travel", "user_id": 9378, "from": "Los Angeles", "to": "San Diego", "distance_km": 179, "speed_kmh": 1089}
+{"alert_type": "impossible_travel", "user_id": 8258, "from": "Los Angeles", "to": "Dallas", "distance_km": 1991, "speed_kmh": 53918}
+{"alert_type": "impossible_travel", "user_id": 2265, "from": "Philadelphia", "to": "Phoenix", "distance_km": 3344, "speed_kmh": 1268}
+{"alert_type": "impossible_travel", "user_id": 5181, "from": "Chicago", "to": "San Diego", "distance_km": 2786, "speed_kmh": 3460}
+{"alert_type": "impossible_travel", "user_id": 551, "from": "Philadelphia", "to": "San Antonio", "distance_km": 2422, "speed_kmh": 27252}
+{"alert_type": "impossible_travel", "user_id": 4849, "from": "Dallas", "to": "Philadelphia", "distance_km": 2087, "speed_kmh": 1711}
+{"alert_type": "impossible_travel", "user_id": 6640, "from": "San Diego", "to": "Philadelphia", "distance_km": 3810, "speed_kmh": 1114}
+{"alert_type": "impossible_travel", "user_id": 6877, "from": "Houston", "to": "Philadelphia", "distance_km": 2156, "speed_kmh": 8382}
+{"alert_type": "impossible_travel", "user_id": 1438, "from": "San Jose", "to": "San Antonio", "distance_km": 2335, "speed_kmh": 1738}
+{"alert_type": "impossible_travel", "user_id": 9624, "from": "Phoenix", "to": "Dallas", "distance_km": 1423, "speed_kmh": 2264}
+{"alert_type": "impossible_travel", "user_id": 3873, "from": "Los Angeles", "to": "Dallas", "distance_km": 1991, "speed_kmh": 2832}
+{"alert_type": "impossible_travel", "user_id": 7159, "from": "Houston", "to": "San Jose", "distance_km": 2587, "speed_kmh": 4917}
+{"alert_type": "impossible_travel", "user_id": 822, "from": "Chicago", "to": "Houston", "distance_km": 1515, "speed_kmh": 2302}
+{"alert_type": "impossible_travel", "user_id": 3316, "from": "Philadelphia", "to": "Los Angeles", "distance_km": 3843, "speed_kmh": 2300}
+{"alert_type": "impossible_travel", "user_id": 4111, "from": "Philadelphia", "to": "San Diego", "distance_km": 3810, "speed_kmh": 6029}
+{"alert_type": "impossible_travel", "user_id": 8974, "from": "Houston", "to": "New York", "distance_km": 2281, "speed_kmh": 1135}
+{"alert_type": "impossible_travel", "user_id": 2015, "from": "Houston", "to": "San Jose", "distance_km": 2587, "speed_kmh": 3097}
+{"alert_type": "impossible_travel", "user_id": 2244, "from": "Houston", "to": "San Jose", "distance_km": 2587, "speed_kmh": 1193}
+{"alert_type": "impossible_travel", "user_id": 697, "from": "Dallas", "to": "Phoenix", "distance_km": 1423, "speed_kmh": 2785}
+{"alert_type": "impossible_travel", "user_id": 5278, "from": "Philadelphia", "to": "San Jose", "distance_km": 4021, "speed_kmh": 3525}
+{"alert_type": "impossible_travel", "user_id": 3589, "from": "San Antonio", "to": "Chicago", "distance_km": 1694, "speed_kmh": 2159}
+{"alert_type": "impossible_travel", "user_id": 9921, "from": "Chicago", "to": "Dallas", "distance_km": 1294, "speed_kmh": 12737}
+{"alert_type": "impossible_travel", "user_id": 7141, "from": "New York", "to": "Los Angeles", "distance_km": 3935, "speed_kmh": 3829}
+{"alert_type": "impossible_travel", "user_id": 8976, "from": "Los Angeles", "to": "Houston", "distance_km": 2206, "speed_kmh": 4335}
+{"alert_type": "impossible_travel", "user_id": 2840, "from": "New York", "to": "Philadelphia", "distance_km": 129, "speed_kmh": 1519}
+{"alert_type": "impossible_travel", "user_id": 8226, "from": "Houston", "to": "San Diego", "distance_km": 2093, "speed_kmh": 3285}
+{"alert_type": "impossible_travel", "user_id": 9004, "from": "San Jose", "to": "San Antonio", "distance_km": 2335, "speed_kmh": 14776}
+{"alert_type": "impossible_travel", "user_id": 9376, "from": "Houston", "to": "Los Angeles", "distance_km": 2206, "speed_kmh": 1382}
+{"alert_type": "impossible_travel", "user_id": 5418, "from": "Phoenix", "to": "Chicago", "distance_km": 2336, "speed_kmh": 2205}
+{"alert_type": "impossible_travel", "user_id": 289, "from": "New York", "to": "San Diego", "distance_km": 3907, "speed_kmh": 1229}
+{"alert_type": "impossible_travel", "user_id": 1833, "from": "San Antonio", "to": "New York", "distance_km": 2545, "speed_kmh": 6624}
+{"alert_type": "impossible_travel", "user_id": 641, "from": "Philadelphia", "to": "San Diego", "distance_km": 3810, "speed_kmh": 3057}
+{"alert_type": "impossible_travel", "user_id": 3300, "from": "Chicago", "to": "San Jose", "distance_km": 2957, "speed_kmh": 354909}
+{"alert_type": "impossible_travel", "user_id": 4733, "from": "San Diego", "to": "Houston", "distance_km": 2093, "speed_kmh": 3194}
+{"alert_type": "impossible_travel", "user_id": 1391, "from": "San Jose", "to": "Philadelphia", "distance_km": 4021, "speed_kmh": 5600}
+{"alert_type": "impossible_travel", "user_id": 1044, "from": "Dallas", "to": "Los Angeles", "distance_km": 1991, "speed_kmh": 2388}
+{"alert_type": "impossible_travel", "user_id": 5120, "from": "Los Angeles", "to": "San Antonio", "distance_km": 1933, "speed_kmh": 2218}
+{"alert_type": "impossible_travel", "user_id": 7229, "from": "Dallas", "to": "Chicago", "distance_km": 1294, "speed_kmh": 1428}
+{"alert_type": "impossible_travel", "user_id": 7435, "from": "Philadelphia", "to": "Houston", "distance_km": 2156, "speed_kmh": 7323}
+{"alert_type": "impossible_travel", "user_id": 2089, "from": "San Antonio", "to": "New York", "distance_km": 2545, "speed_kmh": 2112}
+{"alert_type": "impossible_travel", "user_id": 2569, "from": "Los Angeles", "to": "Houston", "distance_km": 2206, "speed_kmh": 1650}
+{"alert_type": "impossible_travel", "user_id": 890, "from": "New York", "to": "Los Angeles", "distance_km": 3935, "speed_kmh": 2526}
+{"alert_type": "impossible_travel", "user_id": 1993, "from": "Los Angeles", "to": "San Antonio", "distance_km": 1933, "speed_kmh": 1751}
+{"alert_type": "impossible_travel", "user_id": 1622, "from": "Chicago", "to": "Los Angeles", "distance_km": 2803, "speed_kmh": 1413}
+{"alert_type": "impossible_travel", "user_id": 4235, "from": "San Jose", "to": "Philadelphia", "distance_km": 4021, "speed_kmh": 5913}
+{"alert_type": "impossible_travel", "user_id": 4853, "from": "Phoenix", "to": "Philadelphia", "distance_km": 3344, "speed_kmh": 2162}
+{"alert_type": "impossible_travel", "user_id": 4058, "from": "Philadelphia", "to": "Dallas", "distance_km": 2087, "speed_kmh": 1091}
+{"alert_type": "impossible_travel", "user_id": 875, "from": "New York", "to": "San Jose", "distance_km": 4101, "speed_kmh": 1260}
+{"alert_type": "impossible_travel", "user_id": 5428, "from": "Phoenix", "to": "San Antonio", "distance_km": 1362, "speed_kmh": 10710}
+{"alert_type": "impossible_travel", "user_id": 7194, "from": "Los Angeles", "to": "Philadelphia", "distance_km": 3843, "speed_kmh": 3004}
+{"alert_type": "impossible_travel", "user_id": 6208, "from": "New York", "to": "San Antonio", "distance_km": 2545, "speed_kmh": 1014}
+{"alert_type": "impossible_travel", "user_id": 8858, "from": "New York", "to": "Houston", "distance_km": 2281, "speed_kmh": 1248}
+{"alert_type": "impossible_travel", "user_id": 2429, "from": "San Diego", "to": "Philadelphia", "distance_km": 3810, "speed_kmh": 1704}
+{"alert_type": "impossible_travel", "user_id": 2443, "from": "Chicago", "to": "Dallas", "distance_km": 1294, "speed_kmh": 30076}
+{"alert_type": "impossible_travel", "user_id": 1211, "from": "New York", "to": "Phoenix", "distance_km": 3443, "speed_kmh": 27610}
+{"alert_type": "impossible_travel", "user_id": 2379, "from": "San Diego", "to": "Los Angeles", "distance_km": 179, "speed_kmh": 1182}
+{"alert_type": "impossible_travel", "user_id": 4760, "from": "New York", "to": "San Diego", "distance_km": 3907, "speed_kmh": 2589}
+{"alert_type": "impossible_travel", "user_id": 7452, "from": "Phoenix", "to": "Philadelphia", "distance_km": 3344, "speed_kmh": 1117}
+{"alert_type": "impossible_travel", "user_id": 1296, "from": "Los Angeles", "to": "Chicago", "distance_km": 2803, "speed_kmh": 1552}
+{"alert_type": "impossible_travel", "user_id": 201, "from": "Los Angeles", "to": "Dallas", "distance_km": 1991, "speed_kmh": 1029}
+{"alert_type": "impossible_travel", "user_id": 2673, "from": "New York", "to": "San Antonio", "distance_km": 2545, "speed_kmh": 8165}
+{"alert_type": "impossible_travel", "user_id": 1779, "from": "Chicago", "to": "San Diego", "distance_km": 2786, "speed_kmh": 1080}
+{"alert_type": "impossible_travel", "user_id": 9482, "from": "San Diego", "to": "New York", "distance_km": 3907, "speed_kmh": 1568}
+{"alert_type": "impossible_travel", "user_id": 5805, "from": "San Jose", "to": "New York", "distance_km": 4101, "speed_kmh": 4943}
+{"alert_type": "impossible_travel", "user_id": 9518, "from": "San Antonio", "to": "New York", "distance_km": 2545, "speed_kmh": 1676}
+{"alert_type": "impossible_travel", "user_id": 5941, "from": "San Antonio", "to": "San Diego", "distance_km": 1812, "speed_kmh": 1226}
+{"alert_type": "impossible_travel", "user_id": 900, "from": "New York", "to": "San Antonio", "distance_km": 2545, "speed_kmh": 1261}
+{"alert_type": "impossible_travel", "user_id": 8351, "from": "San Jose", "to": "San Antonio", "distance_km": 2335, "speed_kmh": 2608}
+{"alert_type": "impossible_travel", "user_id": 6486, "from": "Los Angeles", "to": "Houston", "distance_km": 2206, "speed_kmh": 2277}
+{"alert_type": "impossible_travel", "user_id": 7704, "from": "Los Angeles", "to": "Chicago", "distance_km": 2803, "speed_kmh": 1128}
+{"alert_type": "impossible_travel", "user_id": 6821, "from": "Dallas", "to": "San Jose", "distance_km": 2331, "speed_kmh": 3327}
+{"alert_type": "impossible_travel", "user_id": 7110, "from": "Houston", "to": "San Diego", "distance_km": 2093, "speed_kmh": 5550}
+{"alert_type": "impossible_travel", "user_id": 4086, "from": "Chicago", "to": "Dallas", "distance_km": 1294, "speed_kmh": 3412}
+{"alert_type": "impossible_travel", "user_id": 7239, "from": "Los Angeles", "to": "Chicago", "distance_km": 2803, "speed_kmh": 7493}
+{"alert_type": "impossible_travel", "user_id": 6450, "from": "San Diego", "to": "San Antonio", "distance_km": 1812, "speed_kmh": 1856}
+{"alert_type": "impossible_travel", "user_id": 9225, "from": "San Jose", "to": "New York", "distance_km": 4101, "speed_kmh": 32383}
+{"alert_type": "impossible_travel", "user_id": 7981, "from": "Los Angeles", "to": "New York", "distance_km": 3935, "speed_kmh": 3692}
+{"alert_type": "impossible_travel", "user_id": 9933, "from": "San Diego", "to": "Dallas", "distance_km": 1901, "speed_kmh": 1066}
+{"alert_type": "impossible_travel", "user_id": 9089, "from": "San Jose", "to": "Chicago", "distance_km": 2957, "speed_kmh": 6613}
+{"alert_type": "impossible_travel", "user_id": 9397, "from": "Los Angeles", "to": "Philadelphia", "distance_km": 3843, "speed_kmh": 1389}
+{"alert_type": "impossible_travel", "user_id": 7957, "from": "Phoenix", "to": "Los Angeles", "distance_km": 574, "speed_kmh": 35644}
+{"alert_type": "impossible_travel", "user_id": 5281, "from": "Dallas", "to": "Los Angeles", "distance_km": 1991, "speed_kmh": 1711}
+{"alert_type": "impossible_travel", "user_id": 453, "from": "New York", "to": "Los Angeles", "distance_km": 3935, "speed_kmh": 1069}
+{"alert_type": "impossible_travel", "user_id": 1576, "from": "Los Angeles", "to": "Chicago", "distance_km": 2803, "speed_kmh": 1866}
+{"alert_type": "impossible_travel", "user_id": 3722, "from": "Philadelphia", "to": "San Jose", "distance_km": 4021, "speed_kmh": 1228}
+{"alert_type": "impossible_travel", "user_id": 6639, "from": "San Jose", "to": "Philadelphia", "distance_km": 4021, "speed_kmh": 1901}
+{"alert_type": "impossible_travel", "user_id": 7062, "from": "Chicago", "to": "Los Angeles", "distance_km": 2803, "speed_kmh": 1124}
+{"alert_type": "impossible_travel", "user_id": 1466, "from": "Houston", "to": "Chicago", "distance_km": 1515, "speed_kmh": 1805}
+{"alert_type": "impossible_travel", "user_id": 1977, "from": "Houston", "to": "Philadelphia", "distance_km": 2156, "speed_kmh": 2137}
+{"alert_type": "impossible_travel", "user_id": 8632, "from": "Chicago", "to": "Phoenix", "distance_km": 2336, "speed_kmh": 2001}
+{"alert_type": "impossible_travel", "user_id": 8766, "from": "San Diego", "to": "Houston", "distance_km": 2093, "speed_kmh": 1074}
+{"alert_type": "impossible_travel", "user_id": 9920, "from": "Chicago", "to": "Phoenix", "distance_km": 2336, "speed_kmh": 1196}
+{"alert_type": "impossible_travel", "user_id": 7852, "from": "New York", "to": "Dallas", "distance_km": 2205, "speed_kmh": 10687}
+{"alert_type": "impossible_travel", "user_id": 7182, "from": "New York", "to": "San Diego", "distance_km": 3907, "speed_kmh": 2783}
+{"alert_type": "impossible_travel", "user_id": 8905, "from": "Phoenix", "to": "Philadelphia", "distance_km": 3344, "speed_kmh": 2367}
+{"alert_type": "impossible_travel", "user_id": 9193, "from": "Philadelphia", "to": "Los Angeles", "distance_km": 3843, "speed_kmh": 1440}
+{"alert_type": "impossible_travel", "user_id": 5801, "from": "New York", "to": "San Antonio", "distance_km": 2545, "speed_kmh": 1293}
+{"alert_type": "impossible_travel", "user_id": 8090, "from": "San Jose", "to": "New York", "distance_km": 4101, "speed_kmh": 1039}
+{"alert_type": "impossible_travel", "user_id": 8446, "from": "Los Angeles", "to": "Philadelphia", "distance_km": 3843, "speed_kmh": 1159}
+{"alert_type": "impossible_travel", "user_id": 1638, "from": "Philadelphia", "to": "San Jose", "distance_km": 4021, "speed_kmh": 7733}
+{"alert_type": "impossible_travel", "user_id": 3274, "from": "San Jose", "to": "Houston", "distance_km": 2587, "speed_kmh": 1802}
+{"alert_type": "impossible_travel", "user_id": 3549, "from": "Philadelphia", "to": "Houston", "distance_km": 2156, "speed_kmh": 1359}
+{"alert_type": "impossible_travel", "user_id": 1653, "from": "New York", "to": "Los Angeles", "distance_km": 3935, "speed_kmh": 33654}
+{"alert_type": "impossible_travel", "user_id": 5334, "from": "San Diego", "to": "Chicago", "distance_km": 2786, "speed_kmh": 3800}
+{"alert_type": "impossible_travel", "user_id": 9341, "from": "Los Angeles", "to": "Philadelphia", "distance_km": 3843, "speed_kmh": 1139}
+{"alert_type": "impossible_travel", "user_id": 9386, "from": "New York", "to": "San Diego", "distance_km": 3907, "speed_kmh": 5566}
+{"alert_type": "impossible_travel", "user_id": 1000, "from": "Philadelphia", "to": "Phoenix", "distance_km": 3344, "speed_kmh": 1116}
+{"alert_type": "impossible_travel", "user_id": 5516, "from": "Chicago", "to": "San Jose", "distance_km": 2957, "speed_kmh": 1566}
+{"alert_type": "impossible_travel", "user_id": 1576, "from": "San Antonio", "to": "Los Angeles", "distance_km": 1933, "speed_kmh": 1244}
+{"alert_type": "impossible_travel", "user_id": 5864, "from": "Chicago", "to": "Phoenix", "distance_km": 2336, "speed_kmh": 2534}
+{"alert_type": "impossible_travel", "user_id": 691, "from": "San Diego", "to": "Chicago", "distance_km": 2786, "speed_kmh": 6773}
+{"alert_type": "impossible_travel", "user_id": 526, "from": "Houston", "to": "San Jose", "distance_km": 2587, "speed_kmh": 1369}
+{"alert_type": "impossible_travel", "user_id": 2495, "from": "Los Angeles", "to": "Chicago", "distance_km": 2803, "speed_kmh": 2186}
+{"alert_type": "impossible_travel", "user_id": 3281, "from": "San Jose", "to": "San Antonio", "distance_km": 2335, "speed_kmh": 1916}
+{"alert_type": "impossible_travel", "user_id": 3942, "from": "San Diego", "to": "Philadelphia", "distance_km": 3810, "speed_kmh": 2419}
+{"alert_type": "impossible_travel", "user_id": 8593, "from": "Los Angeles", "to": "New York", "distance_km": 3935, "speed_kmh": 15955}
+{"alert_type": "impossible_travel", "user_id": 750, "from": "Houston", "to": "San Diego", "distance_km": 2093, "speed_kmh": 1310}
+{"alert_type": "impossible_travel", "user_id": 858, "from": "San Diego", "to": "New York", "distance_km": 3907, "speed_kmh": 2384}
+{"alert_type": "impossible_travel", "user_id": 7786, "from": "Chicago", "to": "San Antonio", "distance_km": 1694, "speed_kmh": 1057}
+{"alert_type": "impossible_travel", "user_id": 4890, "from": "Houston", "to": "New York", "distance_km": 2281, "speed_kmh": 4194}
+{"alert_type": "impossible_travel", "user_id": 988, "from": "Houston", "to": "San Diego", "distance_km": 2093, "speed_kmh": 1335}
+{"alert_type": "impossible_travel", "user_id": 3145, "from": "Philadelphia", "to": "Phoenix", "distance_km": 3344, "speed_kmh": 1052}
+{"alert_type": "impossible_travel", "user_id": 489, "from": "Houston", "to": "Philadelphia", "distance_km": 2156, "speed_kmh": 1068}
+{"alert_type": "impossible_travel", "user_id": 9641, "from": "San Antonio", "to": "New York", "distance_km": 2545, "speed_kmh": 1235}
+{"alert_type": "impossible_travel", "user_id": 5141, "from": "Philadelphia", "to": "Dallas", "distance_km": 2087, "speed_kmh": 1073}
+{"alert_type": "impossible_travel", "user_id": 1650, "from": "Philadelphia", "to": "San Diego", "distance_km": 3810, "speed_kmh": 1573}
+{"alert_type": "impossible_travel", "user_id": 3674, "from": "Houston", "to": "Phoenix", "distance_km": 1632, "speed_kmh": 2516}
+{"alert_type": "impossible_travel", "user_id": 5389, "from": "Philadelphia", "to": "Chicago", "distance_km": 1068, "speed_kmh": 21479}
+{"alert_type": "impossible_travel", "user_id": 2699, "from": "Chicago", "to": "San Jose", "distance_km": 2957, "speed_kmh": 3343}
+{"alert_type": "impossible_travel", "user_id": 2184, "from": "Los Angeles", "to": "New York", "distance_km": 3935, "speed_kmh": 1820}
+{"alert_type": "impossible_travel", "user_id": 4617, "from": "San Diego", "to": "Dallas", "distance_km": 1901, "speed_kmh": 3843}
+{"alert_type": "impossible_travel", "user_id": 6379, "from": "Phoenix", "to": "Philadelphia", "distance_km": 3344, "speed_kmh": 4121}
+{"alert_type": "impossible_travel", "user_id": 8716, "from": "San Jose", "to": "Philadelphia", "distance_km": 4021, "speed_kmh": 4377}
+{"alert_type": "impossible_travel", "user_id": 2776, "from": "Philadelphia", "to": "San Antonio", "distance_km": 2422, "speed_kmh": 3500}
+{"alert_type": "impossible_travel", "user_id": 7842, "from": "Dallas", "to": "San Jose", "distance_km": 2331, "speed_kmh": 1221}
+{"alert_type": "impossible_travel", "user_id": 1586, "from": "Houston", "to": "San Diego", "distance_km": 2093, "speed_kmh": 2755}
+{"alert_type": "impossible_travel", "user_id": 6843, "from": "San Diego", "to": "Chicago", "distance_km": 2786, "speed_kmh": 2406}
+{"alert_type": "impossible_travel", "user_id": 1050, "from": "New York", "to": "Houston", "distance_km": 2281, "speed_kmh": 8363}
+{"alert_type": "impossible_travel", "user_id": 8715, "from": "Chicago", "to": "San Jose", "distance_km": 2957, "speed_kmh": 89472}
+{"alert_type": "impossible_travel", "user_id": 9758, "from": "Houston", "to": "Philadelphia", "distance_km": 2156, "speed_kmh": 7543}
+{"alert_type": "impossible_travel", "user_id": 9614, "from": "Houston", "to": "San Jose", "distance_km": 2587, "speed_kmh": 21611}
+{"alert_type": "impossible_travel", "user_id": 7676, "from": "Phoenix", "to": "San Jose", "distance_km": 988, "speed_kmh": 2319}
+{"alert_type": "impossible_travel", "user_id": 2869, "from": "Los Angeles", "to": "Houston", "distance_km": 2206, "speed_kmh": 2391}
+{"alert_type": "impossible_travel", "user_id": 2281, "from": "San Jose", "to": "Dallas", "distance_km": 2331, "speed_kmh": 1344}
+{"alert_type": "impossible_travel", "user_id": 2127, "from": "Philadelphia", "to": "San Antonio", "distance_km": 2422, "speed_kmh": 1888}
+{"alert_type": "impossible_travel", "user_id": 9044, "from": "San Jose", "to": "San Antonio", "distance_km": 2335, "speed_kmh": 1260}
+{"alert_type": "impossible_travel", "user_id": 4113, "from": "San Antonio", "to": "San Jose", "distance_km": 2335, "speed_kmh": 11710}
+{"alert_type": "impossible_travel", "user_id": 6567, "from": "Houston", "to": "San Jose", "distance_km": 2587, "speed_kmh": 1591}
+{"alert_type": "impossible_travel", "user_id": 5117, "from": "San Jose", "to": "New York", "distance_km": 4101, "speed_kmh": 1233}
+{"alert_type": "impossible_travel", "user_id": 4340, "from": "Houston", "to": "New York", "distance_km": 2281, "speed_kmh": 1580}
+{"alert_type": "impossible_travel", "user_id": 2757, "from": "Phoenix", "to": "Philadelphia", "distance_km": 3344, "speed_kmh": 1068}
+{"alert_type": "impossible_travel", "user_id": 5910, "from": "San Diego", "to": "New York", "distance_km": 3907, "speed_kmh": 5481}
+{"alert_type": "impossible_travel", "user_id": 3674, "from": "San Jose", "to": "Houston", "distance_km": 2587, "speed_kmh": 2506}
+{"alert_type": "impossible_travel", "user_id": 5774, "from": "Philadelphia", "to": "Dallas", "distance_km": 2087, "speed_kmh": 1355}
+{"alert_type": "impossible_travel", "user_id": 2693, "from": "San Diego", "to": "Philadelphia", "distance_km": 3810, "speed_kmh": 6431}
+{"alert_type": "impossible_travel", "user_id": 160, "from": "San Antonio", "to": "San Diego", "distance_km": 1812, "speed_kmh": 1628}
+{"alert_type": "impossible_travel", "user_id": 8746, "from": "New York", "to": "Los Angeles", "distance_km": 3935, "speed_kmh": 22597}
+{"alert_type": "impossible_travel", "user_id": 2986, "from": "Houston", "to": "Philadelphia", "distance_km": 2156, "speed_kmh": 1757}
+{"alert_type": "impossible_travel", "user_id": 3000, "from": "Dallas", "to": "San Diego", "distance_km": 1901, "speed_kmh": 5886}
+{"alert_type": "impossible_travel", "user_id": 8942, "from": "San Diego", "to": "San Antonio", "distance_km": 1812, "speed_kmh": 1408}
+{"alert_type": "impossible_travel", "user_id": 8179, "from": "San Diego", "to": "San Jose", "distance_km": 670, "speed_kmh": 1128}
+{"alert_type": "impossible_travel", "user_id": 4544, "from": "San Antonio", "to": "Chicago", "distance_km": 1694, "speed_kmh": 5007}
+{"alert_type": "impossible_travel", "user_id": 2209, "from": "Philadelphia", "to": "Los Angeles", "distance_km": 3843, "speed_kmh": 1127}
+{"alert_type": "impossible_travel", "user_id": 3974, "from": "San Jose", "to": "San Antonio", "distance_km": 2335, "speed_kmh": 2674}
+{"alert_type": "impossible_travel", "user_id": 9370, "from": "San Diego", "to": "New York", "distance_km": 3907, "speed_kmh": 1115}
+{"alert_type": "impossible_travel", "user_id": 2056, "from": "San Jose", "to": "Phoenix", "distance_km": 988, "speed_kmh": 1066}
+{"alert_type": "impossible_travel", "user_id": 5394, "from": "San Antonio", "to": "New York", "distance_km": 2545, "speed_kmh": 1453}
+{"alert_type": "impossible_travel", "user_id": 3768, "from": "Los Angeles", "to": "San Antonio", "distance_km": 1933, "speed_kmh": 12002}
+{"alert_type": "impossible_travel", "user_id": 4787, "from": "San Antonio", "to": "San Diego", "distance_km": 1812, "speed_kmh": 7544}
+{"alert_type": "impossible_travel", "user_id": 5761, "from": "Los Angeles", "to": "Philadelphia", "distance_km": 3843, "speed_kmh": 1204}
+{"alert_type": "impossible_travel", "user_id": 5666, "from": "San Diego", "to": "Phoenix", "distance_km": 480, "speed_kmh": 1216}
+{"alert_type": "impossible_travel", "user_id": 6202, "from": "Phoenix", "to": "San Antonio", "distance_km": 1362, "speed_kmh": 1737}
+{"alert_type": "impossible_travel", "user_id": 1047, "from": "Los Angeles", "to": "Philadelphia", "distance_km": 3843, "speed_kmh": 1792}
+{"alert_type": "impossible_travel", "user_id": 4505, "from": "New York", "to": "San Jose", "distance_km": 4101, "speed_kmh": 1215}
+{"alert_type": "impossible_travel", "user_id": 6319, "from": "Chicago", "to": "Los Angeles", "distance_km": 2803, "speed_kmh": 5363}
+{"alert_type": "impossible_travel", "user_id": 7973, "from": "Dallas", "to": "San Antonio", "distance_km": 406, "speed_kmh": 2144}
+{"alert_type": "impossible_travel", "user_id": 8652, "from": "San Jose", "to": "Philadelphia", "distance_km": 4021, "speed_kmh": 1225}
+{"alert_type": "impossible_travel", "user_id": 5895, "from": "Houston", "to": "Los Angeles", "distance_km": 2206, "speed_kmh": 1443}
+{"alert_type": "impossible_travel", "user_id": 3989, "from": "Los Angeles", "to": "New York", "distance_km": 3935, "speed_kmh": 9873}
+{"alert_type": "impossible_travel", "user_id": 3695, "from": "New York", "to": "Dallas", "distance_km": 2205, "speed_kmh": 2960}
+{"alert_type": "impossible_travel", "user_id": 4861, "from": "San Diego", "to": "Dallas", "distance_km": 1901, "speed_kmh": 2213}
+{"alert_type": "impossible_travel", "user_id": 1718, "from": "Phoenix", "to": "Chicago", "distance_km": 2336, "speed_kmh": 2646}
