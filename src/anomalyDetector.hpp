@@ -52,7 +52,9 @@ class AnomalyDetector {
         }
     
     public:
-        AnomalyDetector(){
+
+        AnomalyDetector(const string& outputFileName = "alerts.ndjson"){
+            
             // For simplicity, hardcoded city coordinates (latitude and longitude)
             cityCoordinates["New York"] = {40.7128, -74.0060};
             cityCoordinates["Los Angeles"] = {34.0522, -118.2437};
@@ -65,9 +67,10 @@ class AnomalyDetector {
             cityCoordinates["Dallas"] = {32.7767, -96.7970};
             cityCoordinates["San Jose"] = {37.3382, -121.8863};
 
-            alertFile.open("alerts.ndjson");
+            alertFile.open(outputFileName);
+
             if(!alertFile.is_open()){
-                cerr << "Error opening alert file" << endl;
+                cerr << "Error opening " << outputFileName <<  endl;
             } else
                 cout << "AnomalyDetector initialized, ready to process transactions." << endl;
         }
@@ -81,6 +84,7 @@ class AnomalyDetector {
 
         // Haversine formula to calculate distance between two points on the Earth
         double haversine(const string c1, const string c2){
+            
             if(cityCoordinates.find(c1) == cityCoordinates.end() || cityCoordinates.find(c2) == cityCoordinates.end())
                 return 0.0; // If we don't have coordinates, we can't calculate distance
             

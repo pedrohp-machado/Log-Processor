@@ -26,7 +26,30 @@ void worker(int id, SafeQueue<unique_ptr<Transaction>>& queue, AnomalyDetector& 
     }
 }
 
-int main() {
+int main(int argc, char* argv[]) {
+
+    string input_file = "data/transactions.csv";
+    string output_file = "alerts.ndjson";
+    int num_threads = thread::hardware_concurrency();
+
+    // Process comand line arguments
+    for(int i = 1; i < argc; ++i){
+        string arg = argv[i];
+        
+        if(arg == "--input" && i + 1 < argc){
+            input_file = argv[++i];
+        } else if(arg == "--output" && i + 1 < argc){
+            output_file = argv[++i];
+        } else if(arg == "--threads" && i + 1 < argc){
+            num_threads = stoi(argv[++i]);
+        } else {
+            cout << "Command usage: ./log_processor [--input <file>] [--output <file>] [--threads <num>]" << endl;
+            return 0;
+        }
+    }
+
+    cout << "Input file: " << input_file << endl;
+    cout << "Output' file: " << output_file << endl;
     
     SafeQueue<unique_ptr<Transaction>> queue;
     AnomalyDetector detector;
@@ -35,7 +58,6 @@ int main() {
 
     // Starting worker threads
     vector<thread> workers;
-    int num_threads = thread::hardware_concurrency();
     cout << "Iniciando " << num_threads << " threads..." << endl;
 
     for (int i = 0; i < num_threads; ++i) {
@@ -43,12 +65,10 @@ int main() {
     }
 
     // Opening file
-    cout << "Tentando abrir arquivo em: " << FILE_PATH << endl;
-    ifstream file(FILE_PATH);
+    ifstream file(input_file);
 
     if (!file.is_open()) {
-        cerr << "ERRO CRITICO: Nao foi possivel abrir o arquivo!" << endl;
-        cerr << "Verifique se a pasta 'data' existe e se o arquivo 'transactions.csv' esta dentro dela." << endl;
+        cerr << "ERRO CRITICO: Nao foi possivel abrir o arquivo!" << input_file << endl;
         
         // Finishing worker threads to avoid hanging
         queue.markFinished();
