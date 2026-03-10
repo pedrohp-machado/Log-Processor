@@ -22,3 +22,12 @@ run: all
 clean:
 	rm -f $(TARGET)
 	@echo "Limpeza concluída."
+
+# Tests
+TEST_TARGET = log_processor_test
+TEST_SRC = src/tests/tests.cpp
+
+test: $(TEST_SRC)
+	$(CXX) $(CXXFLAGS) $(TEST_SRC) -o $(TEST_TARGET)
+	@echo "Test build successful: executable: ./$(TEST_TARGET)"
+	./$(TEST_TARGET)

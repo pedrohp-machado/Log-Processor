@@ -43,26 +43,6 @@ class AnomalyDetector {
             return deg * (PI / 180.0);
         }
 
-        // Haversine formula to calculate distance between two points on the Earth
-        double haversine(const string c1, const string c2){
-            if(cityCoordinates.find(c1) == cityCoordinates.end() || cityCoordinates.find(c2) == cityCoordinates.end())
-                return 0.0; // If we don't have coordinates, we can't calculate distance
-            
-            coordinates coord1 = cityCoordinates[c1];
-            coordinates coord2 = cityCoordinates[c2];
-
-            double dLat = toRad(coord2.lat - coord1.lat);
-            double dLon = toRad(coord2.lon - coord1.lon);
-            double lat1 = toRad(coord1.lat);
-            double lat2 = toRad(coord2.lat);
-
-            double a = sin(dLat/2) * sin(dLat/2) + 
-                       sin(dLon/2) * sin(dLon/2) * cos(lat1) * cos(lat2);
-            double c = 2 * atan2(sqrt(a), sqrt(1-a));
-
-            return EARTH_RADIUS_KM * c; 
-        }
-
         long parseTimestamp(const string& timestamp) {
             // Simple parser assuming format "YYYY-MM-DD HH:MM:SS"
             struct tm tm{};
@@ -97,6 +77,26 @@ class AnomalyDetector {
                 alertFile.close();
                 cout << "Alerts saved to alerts.ndjson" << endl;
             }
+        }
+
+        // Haversine formula to calculate distance between two points on the Earth
+        double haversine(const string c1, const string c2){
+            if(cityCoordinates.find(c1) == cityCoordinates.end() || cityCoordinates.find(c2) == cityCoordinates.end())
+                return 0.0; // If we don't have coordinates, we can't calculate distance
+            
+            coordinates coord1 = cityCoordinates[c1];
+            coordinates coord2 = cityCoordinates[c2];
+
+            double dLat = toRad(coord2.lat - coord1.lat);
+            double dLon = toRad(coord2.lon - coord1.lon);
+            double lat1 = toRad(coord1.lat);
+            double lat2 = toRad(coord2.lat);
+
+            double a = sin(dLat/2) * sin(dLat/2) + 
+                       sin(dLon/2) * sin(dLon/2) * cos(lat1) * cos(lat2);
+            double c = 2 * atan2(sqrt(a), sqrt(1-a));
+
+            return EARTH_RADIUS_KM * c; 
         }
 
         void process(const Transaction& t){
