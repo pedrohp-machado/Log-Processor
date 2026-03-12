@@ -104,9 +104,10 @@ class AnomalyDetector {
         }
 
         void process(const Transaction& t){
-            long currentSec = parseTimestamp(t.timestamp);
 
             lock_guard<mutex> lock(mtx); 
+
+            long currentSec = parseTimestamp(t.timestamp);
 
             if (userHistory.count(t.userId)){
                 const auto& lastState = userHistory[t.userId];
