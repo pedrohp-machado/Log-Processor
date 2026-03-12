@@ -111,6 +111,7 @@
 {"alert_type": "impossible_travel", "user_id": 7732, "from": "Philadelphia", "to": "Dallas", "distance_km": 2087, "speed_kmh": 4884}
 {"alert_type": "impossible_travel", "user_id": 2460, "from": "San Jose", "to": "New York", "distance_km": 4101, "speed_kmh": 3127}
 {"alert_type": "impossible_travel", "user_id": 5492, "from": "Chicago", "to": "Dallas", "distance_km": 1294, "speed_kmh": 1188}
+{"alert_type": "impossible_travel", "user_id": 4901, "from": "Chicago", "to": "Dallas", "distance_km": 1294, "speed_kmh": 3639}
 {"alert_type": "impossible_travel", "user_id": 2507, "from": "Dallas", "to": "Chicago", "distance_km": 1294, "speed_kmh": 2087}
 {"alert_type": "impossible_travel", "user_id": 469, "from": "Chicago", "to": "San Diego", "distance_km": 2786, "speed_kmh": 1283}
 {"alert_type": "impossible_travel", "user_id": 4206, "from": "Philadelphia", "to": "Los Angeles", "distance_km": 3843, "speed_kmh": 14205}

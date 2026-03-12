@@ -65,7 +65,12 @@ int main(int argc, char* argv[]) {
     }
 
     // Opening file
-    ifstream file(input_file);
+    ifstream file;
+
+    // vector<char> buffer(1024 * 1024); // 1MB buffer
+    // file.rdbuf()->pubsetbuf(buffer.data(), buffer.size());
+
+    file.open(input_file);
 
     if (!file.is_open()) {
         cerr << "ERRO CRITICO: Nao foi possivel abrir o arquivo!" << input_file << endl;
